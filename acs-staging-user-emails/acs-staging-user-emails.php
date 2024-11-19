@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ACS Staging User Emails
  * Description: A plugin that uses WP Batch Processing to scramble and unscramble non-admin user emails for staging environments.
- * Version: 1.0.3
+ * Version: 1.0.4
  * Author: ACS Digital Media
  * License: GPL-2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
